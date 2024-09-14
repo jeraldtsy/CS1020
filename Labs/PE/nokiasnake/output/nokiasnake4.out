@@ -1,0 +1,140 @@
+Snake is of length 1 with head (4,5) and tail (4,5)
+Snake is of length 1 with head (4,3) and tail (4,3)
+Direction changed to right
+Direction changed to left
+Direction changed to down
+Snake is of length 1 with head (4,8) and tail (4,8)
+Snake is of length 1 with head (4,1) and tail (4,1)
+Direction changed to up
+Snake is of length 1 with head (4,8) and tail (4,8)
+Snake is of length 1 with head (4,3) and tail (4,3)
+Direction changed to right
+Direction changed to up
+Snake is of length 1 with head (4,9) and tail (4,9)
+Direction changed to down
+Snake is of length 1 with head (4,0) and tail (4,0)
+Snake is of length 1 with head (4,2) and tail (4,2)
+Snake is of length 1 with head (4,3) and tail (4,3)
+Direction changed to left
+Direction changed to up
+Direction changed to down
+Direction changed to left
+Direction changed to up
+Direction changed to down
+Direction changed to left
+Direction changed to up
+Direction changed to right
+Snake is of length 1 with head (5,3) and tail (5,3)
+Snake is of length 1 with head (7,3) and tail (7,3)
+Snake is of length 1 with head (8,3) and tail (8,3)
+Snake is of length 1 with head (13,3) and tail (13,3)
+Snake is of length 2 with head (15,3) and tail (14,3)
+Snake is of length 2 with head (17,3) and tail (16,3)
+Snake is of length 2 with head (1,3) and tail (0,3)
+Snake is of length 3 with head (5,3) and tail (3,3)
+Direction changed to down
+Direction changed to up
+Direction changed to down
+Direction changed to right
+Snake is of length 3 with head (7,3) and tail (5,3)
+Snake is of length 3 with head (11,3) and tail (9,3)
+Snake is of length 3 with head (14,3) and tail (12,3)
+Direction changed to up
+Snake is of length 4 with head (14,8) and tail (14,1)
+Direction changed to right
+Direction changed to left
+Snake is of length 5 with head (11,8) and tail (14,9)
+Snake is of length 5 with head (10,8) and tail (14,8)
+Snake is of length 5 with head (5,8) and tail (9,8)
+Snake is of length 5 with head (0,8) and tail (4,8)
+Snake is of length 6 with head (18,8) and tail (3,8)
+Snake is of length 7 with head (14,8) and tail (0,8)
+Snake is of length 7 with head (13,8) and tail (19,8)
+Direction changed to down
+Direction changed to up
+Direction changed to left
+Direction changed to up
+Direction changed to down
+Snake is of length 7 with head (13,9) and tail (18,8)
+Direction changed to right
+Direction changed to down
+Direction changed to left
+Direction changed to down
+Snake is of length 7 with head (13,1) and tail (16,8)
+Snake is of length 7 with head (13,3) and tail (14,8)
+Direction changed to right
+Snake is of length 7 with head (18,3) and tail (13,2)
+Snake is of length 7 with head (0,3) and tail (14,3)
+Direction changed to down
+Snake is of length 7 with head (0,8) and tail (19,3)
+Snake is of length 7 with head (0,9) and tail (0,3)
+Snake is of length 7 with head (0,2) and tail (0,6)
+Direction changed to left
+Snake is of length 7 with head (15,2) and tail (0,1)
+Direction changed to down
+Direction changed to left
+Direction changed to up
+Direction changed to left
+Direction changed to up
+Direction changed to down
+Direction changed to up
+Snake is of length 7 with head (15,8) and tail (17,2)
+Snake is of length 8 with head (15,4) and tail (15,1)
+Snake is of length 8 with head (15,0) and tail (15,7)
+Snake is of length 8 with head (15,8) and tail (15,5)
+Direction changed to left
+Snake is of length 8 with head (14,8) and tail (15,4)
+Snake is of length 8 with head (10,8) and tail (15,0)
+Snake is of length 8 with head (7,8) and tail (14,8)
+Snake is of length 8 with head (4,8) and tail (11,8)
+Direction changed to up
+Snake is of length 8 with head (4,4) and tail (7,8)
+Snake is of length 8 with head (4,9) and tail (4,6)
+Direction changed to left
+Direction changed to up
+Direction changed to right
+Direction changed to up
+Direction changed to left
+Snake is of length 8 with head (0,9) and tail (4,2)
+Snake is of length 8 with head (17,9) and tail (4,9)
+Snake is of length 8 with head (13,9) and tail (0,9)
+Snake is of length 8 with head (11,9) and tail (18,9)
+Snake is of length 9 with head (6,9) and tail (14,9)
+Snake is of length 9 with head (3,9) and tail (11,9)
+Snake is of length 9 with head (0,9) and tail (8,9)
+Snake is of length 9 with head (15,9) and tail (3,9)
+Snake is of length 9 with head (10,9) and tail (18,9)
+Snake is of length 9 with head (9,9) and tail (17,9)
+Snake is of length 9 with head (8,9) and tail (16,9)
+Snake is of length 9 with head (3,9) and tail (11,9)
+Snake is of length 9 with head (19,9) and tail (7,9)
+Snake is of length 9 with head (14,9) and tail (2,9)
+Snake is of length 9 with head (13,9) and tail (1,9)
+Direction changed to up
+Snake is of length 9 with head (13,4) and tail (16,9)
+Snake is of length 9 with head (13,1) and tail (13,9)
+Direction changed to left
+Snake is of length 10 with head (11,1) and tail (13,8)
+Snake is of length 10 with head (6,1) and tail (13,3)
+Snake is of length 11 with head (1,1) and tail (11,1)
+Direction changed to down
+Direction changed to left
+Direction changed to up
+Snake is of length 11 with head (1,7) and tail (7,1)
+Direction changed to left
+Snake is of length 11 with head (0,7) and tail (6,1)
+Snake is of length 11 with head (19,7) and tail (5,1)
+Snake is of length 11 with head (15,7) and tail (1,1)
+Snake is of length 11 with head (12,7) and tail (1,8)
+Direction changed to down
+Direction changed to left
+Snake is of length 12 with head (7,7) and tail (18,7)
+Snake is of length 12 with head (5,7) and tail (16,7)
+Snake is of length 12 with head (1,7) and tail (12,7)
+Direction changed to down
+Direction changed to up
+Direction changed to left
+Direction changed to up
+Snake is of length 12 with head (1,4) and tail (9,7)
+Snake is of length 12 with head (1,9) and tail (4,7)
+Game Over! Score: 11

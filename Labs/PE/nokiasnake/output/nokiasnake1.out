@@ -1,0 +1,13 @@
+Snake is of length 1 with head (2,1) and tail (2,1)
+Direction changed to down
+Snake is of length 2 with head (2,0) and tail (2,2)
+Direction changed to right
+Snake is of length 3 with head (0,0) and tail (2,2)
+Direction changed to down
+Direction changed to up
+Snake is of length 4 with head (0,2) and tail (2,2)
+Direction changed to right
+Direction changed to up
+Direction changed to left
+Snake is of length 4 with head (1,2) and tail (0,0)
+Game Over! Score: 3

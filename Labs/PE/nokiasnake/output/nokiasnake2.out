@@ -1,0 +1,18 @@
+Direction changed to right
+Snake is of length 1 with head (4,2) and tail (4,2)
+Direction changed to down
+Direction changed to up
+Snake is of length 2 with head (4,3) and tail (4,4)
+Snake is of length 2 with head (4,3) and tail (4,4)
+Direction changed to right
+Snake is of length 2 with head (0,3) and tail (4,3)
+Snake is of length 2 with head (3,3) and tail (2,3)
+Direction changed to down
+Snake is of length 4 with head (3,1) and tail (3,3)
+Snake is of length 4 with head (3,3) and tail (3,0)
+Snake is of length 4 with head (3,1) and tail (3,3)
+Snake is of length 4 with head (3,0) and tail (3,2)
+Snake is of length 4 with head (3,0) and tail (3,2)
+Direction changed to left
+Snake is of length 5 with head (2,0) and tail (3,2)
+Snake is of length 5 with head (0,0) and tail (3,4)

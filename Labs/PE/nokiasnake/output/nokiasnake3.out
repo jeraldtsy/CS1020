@@ -1,0 +1,33 @@
+Snake is of length 1 with head (4,3) and tail (4,3)
+Snake is of length 2 with head (4,9) and tail (4,0)
+Snake is of length 3 with head (4,7) and tail (4,9)
+Direction changed to right
+Direction changed to up
+Snake is of length 3 with head (4,4) and tail (4,6)
+Direction changed to right
+Snake is of length 3 with head (5,4) and tail (4,5)
+Direction changed to down
+Snake is of length 4 with head (5,6) and tail (4,4)
+Snake is of length 5 with head (5,9) and tail (5,5)
+Snake is of length 5 with head (5,2) and tail (5,8)
+Snake is of length 5 with head (5,3) and tail (5,9)
+Direction changed to left
+Snake is of length 6 with head (0,3) and tail (5,3)
+Snake is of length 6 with head (4,3) and tail (2,3)
+Snake is of length 6 with head (2,3) and tail (0,3)
+Snake is of length 6 with head (1,3) and tail (6,3)
+Snake is of length 6 with head (5,3) and tail (3,3)
+Snake is of length 6 with head (3,3) and tail (1,3)
+Snake is of length 6 with head (6,3) and tail (4,3)
+Snake is of length 6 with head (1,3) and tail (6,3)
+Snake is of length 6 with head (3,3) and tail (1,3)
+Direction changed to up
+Direction changed to left
+Snake is of length 6 with head (2,3) and tail (0,3)
+Snake is of length 6 with head (5,3) and tail (3,3)
+Direction changed to up
+Snake is of length 6 with head (5,2) and tail (2,3)
+Snake is of length 6 with head (5,1) and tail (1,3)
+Snake is of length 6 with head (5,9) and tail (6,3)
+Snake is of length 6 with head (5,7) and tail (5,2)
+Snake is of length 6 with head (5,6) and tail (5,1)
